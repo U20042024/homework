@@ -5,7 +5,7 @@ if ( m >= 0 and n >= 0 ) or ( m <= 0 and n <= 0) :
     m= n
     n = k
     print("the first number is : " , m)
-    print("the second number is : " , n)
+    print("the other number is : " , n)
 else :
     print ("the sum is : " , m + n)
-    print (" the multiplication is : ", m * n)
+    print ("the multiplication is : ", m * n)
